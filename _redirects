@@ -1,2 +1,4 @@
-http://jarred.com.au/*  https://jarred.eu/:splat 301!
-https://jarred.com.au/* https://jarred.eu/:splat 301!
+http://jarred.com.au/*      https://jarred.eu/:splat 301!
+https://jarred.com.au/*     https://jarred.eu/:splat 301!
+http://www.jarred.com.au/*  https://jarred.eu/:splat 301!
+https://www.jarred.com.au/* https://jarred.eu/:splat 301!
